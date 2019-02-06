@@ -9,7 +9,8 @@
   "scripts": {
     "build": "webpack",
     "dev": "set NODE_ENV=development&& webpack",
-    "prepublishOnly": "npm run build"
+    "prepublishOnly": "npm run build",
+    "test": "echo \"No tests exist.\" && exit 0"
   },
   "devDependencies": {
     "@babel/core": "^7.1.2",
