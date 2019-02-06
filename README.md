@@ -4,6 +4,7 @@ A pub-sub alternative HOC to `react-router`'s `withRouter` HOC. It functions exa
 
 [![package](https://img.shields.io/npm/v/with-router.svg)](https://www.npmjs.com/package/with-router)
 [![build](https://api.travis-ci.com/CharlesStover/with-router.svg)](https://travis-ci.com/CharlesStover/with-router/)
+[![downloads](https://img.shields.io/npm/dt/with-router.svg)](https://www.npmjs.com/package/with-router)
 [![minified size](https://img.shields.io/bundlephobia/min/with-router.svg)](https://www.npmjs.com/package/with-router)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/with-router.svg)](https://www.npmjs.com/package/with-router)
 
