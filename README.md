@@ -3,10 +3,10 @@
 A pub-sub alternative HOC to `react-router`'s `withRouter` HOC. It functions exactly the same way, except the wrapped component will re-render when the route changes. This is beneficial if your view changes depending on the current path.
 
 [![version](https://img.shields.io/npm/v/with-router.svg)](https://www.npmjs.com/package/with-router)
-[![build](https://api.travis-ci.com/CharlesStover/with-router.svg)](https://travis-ci.com/CharlesStover/with-router/)
-[![downloads](https://img.shields.io/npm/dt/with-router.svg)](https://www.npmjs.com/package/with-router)
 [![minified size](https://img.shields.io/bundlephobia/min/with-router.svg)](https://www.npmjs.com/package/with-router)
 [![minzipped size](https://img.shields.io/bundlephobia/minzip/with-router.svg)](https://www.npmjs.com/package/with-router)
+[![downloads](https://img.shields.io/npm/dt/with-router.svg)](https://www.npmjs.com/package/with-router)
+[![build](https://api.travis-ci.com/CharlesStover/with-router.svg)](https://travis-ci.com/CharlesStover/with-router/)
 
 ## Install
 
